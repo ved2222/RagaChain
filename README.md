@@ -1001,3 +1001,5 @@ Computer Engineering Student
 # ⭐ RagaChain
 
 > **Decentralizing music ownership, licensing and royalty management through blockchain technology.**
+>
+> <img width="1920" height="2046" alt="image" src="https://github.com/user-attachments/assets/5dfb26c4-cc2c-499c-a4e2-caaf86a06188" />
